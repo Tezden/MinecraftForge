@@ -1,0 +1,2 @@
+The game crashed whilst unexpected error
+Error: java.lang.NullPointerException: Cannot get config value without assigned Config object present
